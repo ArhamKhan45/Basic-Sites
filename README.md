@@ -1,3 +1,3 @@
-jmi website-   jamia-jmi.netlify.app/
+jmi website-   https://jamia-jmi.netlify.app/
 
 insc website- https://insca.netlify.app/
